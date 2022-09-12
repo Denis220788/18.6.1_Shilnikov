@@ -1,1 +1,2 @@
 Имя бота в Telegram: @Shilnikov_Currency_bot
+ДЛЯ ЗАПУСКА БОТА НЕОБХОДИМО ЗАПУСТИТЬ КОД
